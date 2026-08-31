@@ -135,7 +135,7 @@ export const BIG_RELAY_URLS = [
 export const SEARCHABLE_RELAY_URLS = [
   'wss://search.nos.today/',
   'wss://search.nostrarchives.com/',
-  'wss://relay.nostr.band/'
+  'wss://relay.ditto.pub/'
 ]
 
 export const TRENDING_NOTES_RELAY_URLS = ['wss://trending.relays.land/']
